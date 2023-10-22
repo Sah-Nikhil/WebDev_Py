@@ -73,7 +73,7 @@ with st.container():
         st.write("##")
         st.write(
             """
-            I am Agastya S. Wilson,
+            I am A.S.W,
             - A passionate video production specialist, with a keen eye for detail and a knack for creating engaging visuals.
             - The CFO and cheif Video Production Specialist of Kshatriya Media, a media production house where we specialize in producing long form podcasts.
             - A final year student at the University of Delhi, pursuing a degree in Economics Honors.
